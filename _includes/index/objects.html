@@ -9,7 +9,7 @@
       {% if count > 0 %}
       {{ count }}
       {% case t %}
-      {% when 'image' %} 
+      {% when 'image' %}
       <a class="text-dark" href="{{ 'image' | prepend: '/browse.html#' | relative_url }}">Images <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-image"/></svg></a><br>
       {% when 'audio' %}
       <a class="text-dark" href="{{ 'audio' | prepend: '/browse.html#' | relative_url }}">Audio <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-audio"/></svg></a><br>
@@ -24,7 +24,6 @@
       {%- endcase -%}
       {%- endif -%}
       {%- endfor -%}
-      <a class="btn btn-sm btn-outline-secondary mt-2" href="{{ '/data.html' | relative_url }}">View table</a>
     </p>
   </div>
 </div>
