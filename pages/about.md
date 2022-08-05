@@ -8,26 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About Us;Koza's Top 5 Items;Sven's Top 5 Items" %}
 
-## About CollectionBuilder CSV
+## About Us
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+{% include feature/image.html objectid="https://koza.rip/assets/koza_card.jpg;https://svenxiety.xyz/assets/sven_card.jpg" link="https://koza.rip;https://svenxiety.xyz" %}
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+This site features the VOCALOID collection of the salty mountain goat [KOZA](https://koza.rip) and the anxious red panda [SVEN](https://svenxiety.xyz). We've been collecting VOCALOID merchandise since approximately 2018, and acquire items through a mix of local, online, and import purchases. Our collection contains both brand new and secondhand items.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## Koza's Top 5 Items
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+{% include feature/image.html objectid="1;2;3;4;5" %}
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## Sven's Top 5 Items
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="160;43;88;32;12" caption="Cute Luka keychain with a gorgeous backdrop!;Sven became absolutely enamored with this Rin can badge after finding it in a local shop;And what's even better - there's a matching Miku!;A lovely art style!!;This style of keychain is incredibly cool" %}
