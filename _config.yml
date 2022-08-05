@@ -18,7 +18,7 @@ source-code: https://github.com/syntheticsloth/koza-rip-collection-vocaloid
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: KOZA.RIP VOCALOID COLLECTION
+title: VOCALOID COLLECTION
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A collection of various Vocaloid goods
 # description appears in meta tags and other locations
@@ -50,8 +50,8 @@ metadata: vocaloid_merch
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them.
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "KOZA.RIP"
+organization-link: https://koza.rip/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
