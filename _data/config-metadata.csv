@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
+title,Item Type,,,DCTERMS.title,headline
 date,Date Created,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-tags,Tags,true,,,keywords
+tags,Tags,true,,DCTERMS.subject,keywords
