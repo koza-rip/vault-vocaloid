@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://vault.koza.rip/assets/bandori.jpg" %}
 
 {% include feature/nav-menu.html sections="About Us;Koza's Top 5 Items;Sven's Top 5 Items" %}
 
