@@ -8,24 +8,24 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://vault.koza.rip/vocaloid
+url: https://vault.koza.rip/bandori
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /vocaloid
+baseurl: /bandori
 # location of code, the full url to your github repository
-source-code: https://github.com/koza-rip/vault-vocaloid
+source-code: https://github.com/koza-rip/vault-bandori
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: THE VOCALOID VAULT
+title: THE BANDORI VAULT
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A collection of various Vocaloid goods
+tagline: A collection of various BanG Dream! Girls Band Party! goods
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A salty mountain goat and an anxious red panda collecting Vocaloid merch. Take a peek inside the vault."
+description: "A salty mountain goat and an anxious red panda collecting Bandori merch. Take a peek inside the vault."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: vocaloid;merch;goods;anime;hatsune miku;meiko;kaito;kagamine rin;kagamine len;video game;megurine luka
+keywords: merch;goods;anime;video game;bandori;bang dream;girls band party
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Sven
 

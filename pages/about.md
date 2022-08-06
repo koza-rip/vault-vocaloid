@@ -16,11 +16,11 @@ credits: true
 
 {% include feature/image.html objectid="https://koza.rip/assets/koza_card.jpg;https://svenxiety.xyz/assets/sven_card.jpg" link="https://koza.rip;https://svenxiety.xyz" %}
 
-This site features the VOCALOID collection of the salty mountain goat [KOZA](https://koza.rip) and the anxious red panda [SVEN](https://svenxiety.xyz). We've been collecting VOCALOID merchandise since approximately 2018, and acquire items through a mix of local, online, and import purchases. Our collection contains both brand new and secondhand items.
+This site features the BANG DREAM! GIRLS BAND PARTY! collection of the salty mountain goat [KOZA](https://koza.rip) and the anxious red panda [SVEN](https://svenxiety.xyz). We've been collecting BANDORI merchandise since approximately 2018, and acquire items through a mix of local, online, and import purchases. Our collection contains both brand new and secondhand items.
 
 ## Koza's Top 5 Items
 
-{% include feature/image.html objectid="1;2;3;4;5" %} 
+{% include feature/image.html objectid="1;2;3;4;5" %}
 
 ## Sven's Top 5 Items
 
