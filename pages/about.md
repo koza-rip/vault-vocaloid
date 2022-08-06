@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://vault.koza.rip/assets/vocaloid.jpg" %}
 
 {% include feature/nav-menu.html sections="About Us;Koza's Top 5 Items;Sven's Top 5 Items" %}
 
@@ -20,7 +20,7 @@ This site features the VOCALOID collection of the salty mountain goat [KOZA](htt
 
 ## Koza's Top 5 Items
 
-{% include feature/image.html objectid="1;2;3;4;5" %} 
+{% include feature/image.html objectid="1;2;3;4;5" %}
 
 ## Sven's Top 5 Items
 
