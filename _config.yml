@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://collection.koza.rip/vocaloid
+url: https://vault.koza.rip/vocaloid
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /collection/vocaloid
+baseurl: /vocaloid
 # location of code, the full url to your github repository
 source-code: https://github.com/syntheticsloth/koza-rip-collection-vocaloid
 
@@ -18,12 +18,12 @@ source-code: https://github.com/syntheticsloth/koza-rip-collection-vocaloid
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: VOCALOID COLLECTION
+title: THE VOCALOID VAULT
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A collection of various Vocaloid goods
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A salty mountain goat and an anxious red panda collecting Vocaloid merch."
+description: "A salty mountain goat and an anxious red panda collecting Vocaloid merch. Take a peek inside the vault."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: vocaloid;merch;goods;anime;hatsune miku;meiko;kaito;kagamine rin;kagamine len;video game;megurine luka
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -52,8 +52,8 @@ metadata: vocaloid_merch
 #
 organization-name: "KOZA.RIP"
 organization-link: https://koza.rip/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: https://koza.rip/assets/koza-rip-logo-black.png
+organization-logo-nav: https://koza.rip/assets/koza-rip-logo-white.png
 
 ##########
 # GOOGLE SERVICES [optional!]
