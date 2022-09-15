@@ -21,4 +21,5 @@ objects/
 # Custom ignore
 _data/vocaloid_merch.csv
 favicon.ico.old
+favicon.ico
 favicon.png
