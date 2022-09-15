@@ -24,4 +24,4 @@ This site features the VOCALOID collection of the salty mountain goat [KOZA](htt
 
 ## Sven's Top 5 Items
 
-{% include feature/image.html objectid="160;43;88;32;12" caption="Cute Luka keychain with a gorgeous backdrop!;Sven became absolutely enamored with this Rin can badge after finding it in a local shop;And what's even better - there's a matching Miku!;A lovely art style!!;This style of keychain is incredibly cool" %}
+{% include feature/image.html objectid="160;43;88;32;12" %}
