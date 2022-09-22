@@ -20,8 +20,12 @@ This site features the VOCALOID collection of the salty mountain goat [KOZA](htt
 
 ## Koza's Top 5 Items
 
-{% include feature/image.html objectid="1;2;3;4;5" %}
+Coming soon!
+
+<!-- {% include feature/image.html objectid="1;2;3;4;5" %} -->
 
 ## Sven's Top 5 Items
 
-{% include feature/image.html objectid="160;43;88;32;12" %}
+Coming soon!
+
+<!-- {% include feature/image.html objectid="160;43;88;32;12" %} -->
